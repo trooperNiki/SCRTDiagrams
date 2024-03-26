@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T08:01:41.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Mtg2Qk6EQpYjPkCtQhU9" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T08:05:33.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1wHYa-dkmR0PgKHxTilT" version="24.1.0" type="github">
   <diagram name="Page-1" id="tnKCltWtQ2lZkHXjmLwr">
     <mxGraphModel dx="2829" dy="1551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -50,6 +50,9 @@
         <mxCell id="sDggpX4qLWS_yRTiItfV-19" value="once Project is identified as part of the process, RPA should add it to the selection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="362.46999999999997" width="250" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sDggpX4qLWS_yRTiItfV-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDggpX4qLWS_yRTiItfV-23" target="sDggpX4qLWS_yRTiItfV-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sDggpX4qLWS_yRTiItfV-23" value="all available projects doesn&#39;t meet the process criteria. close the request&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="100" width="150" height="60" as="geometry" />
         </mxCell>
@@ -95,6 +98,11 @@
         <mxCell id="sDggpX4qLWS_yRTiItfV-31" value="if&lt;br&gt;one or more of requested service area is available for selected projects.&lt;br&gt;proceed with collecting data. &lt;b&gt;&lt;u&gt;All three service areas should be unavailable to&lt;br&gt;consider this for exception.&lt;/u&gt;&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="320" y="414" width="240" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="sDggpX4qLWS_yRTiItfV-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDggpX4qLWS_yRTiItfV-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sDggpX4qLWS_yRTiItfV-33" value="If all three service areas are unavailable, close the request." style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-160" y="250" width="200" height="50" as="geometry" />
         </mxCell>
@@ -106,6 +114,9 @@
         </mxCell>
         <mxCell id="sDggpX4qLWS_yRTiItfV-42" value="Save the report" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="480" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sDggpX4qLWS_yRTiItfV-45" value="close the request" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-290" y="200" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
