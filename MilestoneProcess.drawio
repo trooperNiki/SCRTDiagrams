@@ -113,8 +113,8 @@
         <mxCell id="OZCi21-u1nla56IRb_Sj-58" value="produced file file is used by Manila team, done on daily bases after 18:00" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="670" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="OZCi21-u1nla56IRb_Sj-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="910" width="250" height="75" as="geometry" />
+        <mxCell id="OZCi21-u1nla56IRb_Sj-66" value="Ops Finance Library/Billing/Milestone Manager v1.34.xlsm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="910" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OZCi21-u1nla56IRb_Sj-67" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Part 2 of the process&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;on SP, users use tool created by Axle and Isaac for additional Milestone management&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="770" width="410" height="120" as="geometry" />
