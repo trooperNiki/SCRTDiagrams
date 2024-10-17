@@ -1,9 +1,82 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="851" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="OZCi21-u1nla56IRb_Sj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OZCi21-u1nla56IRb_Sj-1" target="OZCi21-u1nla56IRb_Sj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-1" value="Milestone Management ETL&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="10" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OZCi21-u1nla56IRb_Sj-4" target="OZCi21-u1nla56IRb_Sj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-4" value="initiation of the process" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="70" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OZCi21-u1nla56IRb_Sj-6" target="OZCi21-u1nla56IRb_Sj-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-6" value="Mosaic Schedule process: PPD Milestone Editor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="130" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-12" value="how to trigger" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OZCi21-u1nla56IRb_Sj-13" target="OZCi21-u1nla56IRb_Sj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-13" value="Mosaic / schedule process" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-14" value="pick BC# and LOB (GCD ALL) and Submit" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OZCi21-u1nla56IRb_Sj-18" target="OZCi21-u1nla56IRb_Sj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-18" value="Collect your data from WinSCP (Puffin)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-24" value="Mosaic export collection" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.58;dx=58.43;notch=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="225" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-25" value="file location: i180_me_p/PROD/source" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="210" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-27" value="collected file will be moved to local drive for transformation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OZCi21-u1nla56IRb_Sj-29" target="OZCi21-u1nla56IRb_Sj-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-29" value="Details" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-32" value="RPA files" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="280" width="200" height="110" as="geometry">
+            <mxRectangle x="590" y="280" width="40" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-33" value="Resource List from Clarity&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OZCi21-u1nla56IRb_Sj-32">
+          <mxGeometry x="30" y="10" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-34" value="Mosaic Milestone from Mosaic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OZCi21-u1nla56IRb_Sj-32">
+          <mxGeometry x="20" y="38" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-35" value="Macro_RPAUSE_Only&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OZCi21-u1nla56IRb_Sj-32">
+          <mxGeometry x="30" y="68" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-36" value="macro creates input file: Mosaic Milestone For Input Macro Build" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="420" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCi21-u1nla56IRb_Sj-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OZCi21-u1nla56IRb_Sj-35" target="OZCi21-u1nla56IRb_Sj-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
